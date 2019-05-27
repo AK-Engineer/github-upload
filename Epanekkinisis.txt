@@ -1,0 +1,85 @@
+Languages used: PHP-Mysql-Ajax-Jquery-Bootstrap
+
+Inventory management system
+
+-Store inventory details
+-Maintain Inventory
+-Track available inventory
+-Track total value of inventory order
+
+Modules
+-Login module
+	-Admin
+	-Volunteer Technician
+-Profile module
+-User management module
+-Brand management module
+-Categoty management module
+-Invenotry management module
+-Order management module
+-Analytics module
+
+
+-Insert new Product
+
+Categories:
+-Desktop
+-Laptop
+-Tablet
+-Screen
+-Mobile
+-Other
+
+MUST HAVE EVERY ENTRY:
+-Ascending number
+-Date of entry
+-User name
+-State: In inventory-Given
+
+
+Desktop-Laptop Specs
+Proelefsi dwreas
+Marka
+Model
+CPU
+RAM
+HDD
+OS
+Parelkomena
+Paratiriseis
+
+Tablet specs
+Proelefsi dwreas
+Marka
+Model
+OS
+(Storage)
+RAM
+Parelkomena
+Paratiriseis
+
+Screen specs
+Proelefsi dwreas
+Marka
+Model
+Parelkomena
+Paratiriseis
+
+Mobile
+Proelefsi dwreas
+Marka
+Model
+OS
+Parelkomena
+Paratiriseis
+
+Other
+Proelefsi dwreas
+Eidos siskevis
+Marka
+Model
+Parelkomena
+Paratiriseis
+
+
+
